@@ -1,0 +1,5 @@
+{
+    "bot_token": "TELEGRAM_BOT_API",
+    "other_setting": "example_value",
+    "check_cursor_setting": "1000"
+}
